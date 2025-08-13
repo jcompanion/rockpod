@@ -1,0 +1,5 @@
+feedparser>=6.0.10
+requests>=2.31.0
+mutagen>=1.47.0
+pyyaml>=6.0.1
+tqdm>=4.66.1

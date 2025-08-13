@@ -1,0 +1,17 @@
+#!/bin/bash
+
+# RockPod Menu Bar App
+# Created as a proper macOS application
+
+# Get the directory containing this script (inside the app bundle)
+SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
+
+# Navigate to the main project directory (3 levels up from MacOS folder)
+PROJECT_DIR="$(dirname "$(dirname "$(dirname "$SCRIPT_DIR")")")"
+cd "$PROJECT_DIR"
+
+# Kill any existing instances
+pkill -f rockpod_menu.py 2>/dev/null
+
+# Run the menu bar app
+exec ./venv/bin/python rockpod_menu.py
