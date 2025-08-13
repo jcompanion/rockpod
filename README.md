@@ -4,6 +4,10 @@
 
 RockPod automatically downloads podcasts from RSS feeds and syncs them to your Rockbox-enabled iPod, complete with metadata, cover art, and a sleek macOS menu bar interface.
 
+## ⚠️ Disclaimer
+
+**This software is untested and provided as-is. Use at your own risk.** The author is not responsible for any damage to your iPod, computer, data loss, or other issues that may arise from using this software. Please ensure you have proper backups before using RockPod.
+
 ![RockPod Demo](https://img.shields.io/badge/Platform-macOS-blue) ![Python](https://img.shields.io/badge/Python-3.8+-green) ![License](https://img.shields.io/badge/License-MIT-orange)
 
 ## ✨ Features
