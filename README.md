@@ -186,6 +186,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **GitHub**: [https://github.com/jcompanion/rockpod](https://github.com/jcompanion/rockpod)
 - **Issues**: [Report bugs and request features](https://github.com/jcompanion/rockpod/issues)
 - **Rockbox**: [https://www.rockbox.org/](https://www.rockbox.org/)
+- **Buy Me a Coffee**: [https://buymeacoffee.com/joshcompanion](https://buymeacoffee.com/joshcompanion) ☕
 
 ---
 
